@@ -22,16 +22,16 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/ronBurgundy' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+          <a href='/brandonMartinez' className='card'>
+            <h3>Brandon Martinez &rarr;</h3>
+            <p>First About Me Page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='/ethanSachs.js'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Ethan Sachs&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Second About Me Page
             </p>
           </a>
           <a
