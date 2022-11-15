@@ -27,7 +27,7 @@ export default function Home() {
             <p>First About Me Page</p>
           </a>
           <a
-            href='/ethanSachs.js'
+            href='/ethanSachs'
             className='card'>
             <h3>Ethan Sachs&rarr;</h3>
             <p>
